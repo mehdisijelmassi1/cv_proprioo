@@ -65,7 +65,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
-  border-left: 4px solid #0074e4;
+  border-left: 4px solid #61E5A9;
 }
 
 .card-white > h4 {
@@ -78,7 +78,7 @@ h4 {
 
 
 .btn-rose {
-  background-color: #0074e4;
+  background-color: #61E5A9;
   color: white;
   padding: 16px;
   line-height: 50px;
@@ -235,7 +235,7 @@ h4 {
   border-radius: 4px;
   margin: 20px 0px;
   list-style: none;
-  border-left: 4px solid #0074e4;
+  border-left: 4px solid #61E5A9;
 }
 
 .educational > h4 {
